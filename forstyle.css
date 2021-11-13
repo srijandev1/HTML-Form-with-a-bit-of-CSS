@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: #D3F1F8  ;
+    block-size: 5px;
+}
+
+p{  font-family: fantasy;
+    line-height: 0.1;
+    color:#9B1F19;
+    font-weight: bold;
+    block-size: 5px;
+}
+
+h1{font-size: 80px;
+    font-family: fantasy;
+    color: white;
+    text-decoration: overline dotted #F60707 ;
+    background-color: #0D2777 ;
+}
+
+div{
+    font-size: 20px;
+    color: #180F4E ;
+    background-color: #DADCF7  ;
+    font-family: Geneva;
+    
+}
+button{
+    
+    color: white;
+    font-family: Copperplate;
+    font-size: 48px;
+    background-color: #0D2777 ;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+form{
+    border-style: solid;
+    border
+}
